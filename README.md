@@ -6,7 +6,8 @@
 - 🌱 I’m currently learning apache spark using scala spark
 
 
-Those I know:
+
+### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="PyTorch" width="26px" src="https://raw.githubusercontent.com/pytorch/pytorch/b85568a54a9c60986235ad1e0cc5dffc71b9d5b1/docs/source/_static/img/pytorch-logo-flame.svg" />
