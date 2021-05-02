@@ -2,8 +2,8 @@
 
 ## I'm currently an undergraduate @BYU studying Comp Sci, Econ, and Math.
 
-🔭 I’m currently working on research merging ORC and NLP methods into one model
-🌱 I’m currently learning apache spark using scala spark
+- 🔭 I’m currently working on research merging ORC and NLP methods into one model
+- 🌱 I’m currently learning apache spark using scala spark
 
 
 Those I know:
@@ -20,7 +20,6 @@ Those I know:
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="LaTeX" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />
 
 <!--
 **scearnest/scearnest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
