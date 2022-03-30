@@ -2,9 +2,6 @@
 
 ## I'm currently an undergraduate @BYU studying Comp Sci, Econ, and Math.
 
-- 🔭 I’m currently working on finding better ways to use NLP for handwriting recognition
-- 🌱 I’m currently learning apache spark using scala spark
-
 
 
 ### Languages and Tools:
