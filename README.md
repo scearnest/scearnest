@@ -1,6 +1,6 @@
 ### Hi there I'm Samuel Earnest 👋
 
-## I'm currently an undergraduate @BYU studying Comp Sci, Econ, and Math.
+## I'm currently an research pre-doc at The University Of Chicago Booth School of Business (Finance)
 
 
 
